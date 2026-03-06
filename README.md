@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React JS <br><br>👨‍💻 My portfolio link https://db-portfolio-20.netlify.app/<br><br>📫 How to reach me daxeshbaraiya@gmail.com<br><br>⚡ Link of all my account https://db-linktree.netlify.app/
+🌱 I’m currently learning React JS <br><br>👨‍💻 My portfolio link https://dakshesh-baraiya.netlify.app/<br><br>📫 How to reach me daxeshbaraiya@gmail.com<br><br>⚡ Link of all my account https://db-linktree.netlify.app/
 
 
 ## 🌐 Socials:

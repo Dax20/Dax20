@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently working as a Software Developer <br>👨‍💻 My portfolio link https://dakshesh-baraiya.netlify.app/<br><br>📫 How to reach me daxeshbaraiya@gmail.com<br><br> 
+🌱 Currently working as a Software Developer <br> <br>👨‍💻 My portfolio link https://dakshesh-baraiya.netlify.app/<br><br>📫 How to reach me daxeshbaraiya@gmail.com<br><br> 
 
 
 ## 🌐 Socials:
